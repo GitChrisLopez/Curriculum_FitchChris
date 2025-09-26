@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: beige;
+}
+
+nav {
+  padding: 10px;
+}
+
+nav a {
+  font-family: sans serif;
+  color: beige;
+  font-weight: 600;
+}
+
+nav ul {
+  display: inline;
+}
+
+nav li {
+  list-style-type: none;
+  display: inline;
+  margin-left: 25px;
+}
+
+nav ul li a:hover {
+  color: rgb(249, 196, 96);
+}
+
+a:hover {
+  color: brown;
+}
+
+p {
+  color: beige;
+}
+
+h2 {
+  color: white;
+}
+
+h4 {
+  color: bisque;
+}
+
+.fotoCV {
+  height: 200px;
+  width: 270px;
+  float: left;
+}
+
+.intereses{
+    color: beige;
+}
+
+
