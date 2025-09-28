@@ -8,6 +8,7 @@ h1 {
 
 nav {
   padding: 10px;
+  background-color: rgb(33, 27, 33);
 }
 
 nav a {
@@ -30,8 +31,12 @@ nav ul li a:hover {
   color: rgb(249, 196, 96);
 }
 
+a{
+  color: rgb(226, 95, 43);
+}
+
 a:hover {
-  color: brown;
+  color: rgb(255, 207, 51);
 }
 
 p {
@@ -54,6 +59,74 @@ h4 {
 
 .intereses{
     color: beige;
+}
+
+.tituloSobreMi1{
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(255, 191, 100);
+}
+
+.SobreMi1{
+  font-size: 16px;
+}
+
+.footer1{
+  background-color: rgb(33, 27, 33);
+}
+
+.horario{
+  margin: 15px 0px 10px 6px;
+  padding: 6px;
+}
+
+#fotoHorario{
+   width: 500px;
+   height: 600px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   border: 5px dashed rgb(129, 119, 181);
+}
+
+#porosito{
+  position: absolute;
+  top: 80%;
+  left: 30%;
+  z-index: 3;
+  width: 100px;
+  height: 100px;
+}
+
+#baileson{
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  z-index: 3;
+  width: 200px;
+  height: 200px;
+}
+
+.interesesDiv{
+  margin: 15px 0px 10px 6px;
+  padding: 6px;
+}
+
+#pc{
+  position: absolute;
+  top: 60%;
+  left: 20%;
+  z-index: 3;
+  width: 150px;
+  height: 100px;
+}
+
+#porosito2{
+  position: absolute;
+  top: 121%;
+  left: 5%;
+  z-index: 3;
+  width: 30px;
+  height: 30px;
 }
 
 
